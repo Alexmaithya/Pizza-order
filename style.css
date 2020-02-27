@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://media.giphy.com/media/4Cgr85YLwtikE/giphy.gif);
+   color: azure;
+   background-size: 50%;
+}
+body h1{
+    text-align: center;
+    color: chartreuse;
+}
