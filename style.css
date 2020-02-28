@@ -6,4 +6,9 @@ body{
 body h1{
     text-align: center;
     color: chartreuse;
+    font-size: larger;
+}
+h{
+    color: black;
+    font-size: x-large;
 }
