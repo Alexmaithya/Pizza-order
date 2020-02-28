@@ -6,7 +6,9 @@ body{
 body h1{
     text-align: center;
     color: chartreuse;
-    font-size: larger;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://media.giphy.com/media/4Cgr85YLwtikE/giphy.gif);
 }
 h{
     color: black;
