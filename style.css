@@ -1,9 +1,16 @@
 body{
-    background-image: url(https://media.giphy.com/media/4Cgr85YLwtikE/giphy.gif);
-   color: azure;
+    background-image: url(https://media.giphy.com/media/84X30sa6BICbe/giphy.gif);
    background-size: 50%;
 }
 body h1{
     text-align: center;
     color: chartreuse;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://media.giphy.com/media/4Cgr85YLwtikE/giphy.gif);
+    background-size: 50%;
+}
+h{
+    color: black;
+    font-size: x-large;
 }
