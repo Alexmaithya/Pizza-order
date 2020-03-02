@@ -14,6 +14,10 @@ https://alexmaithya.github.io/pizza-order/
 -Bootstrap
 - javascript
 - html
-- css
+- css 
+
+#### Contact
+If you have any questions about this project or any suggestions youcan email me on the address below:<br>
+(alexmaithya2001@gmail.com)
 ###### license
 /home/alex/Desktop/pizza-order/licence
