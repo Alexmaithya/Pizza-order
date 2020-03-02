@@ -29,16 +29,16 @@
 // };
 
 
-// var pizza = document.forms.namedItem("myForm");
-// function bill(){
+var pizza = document.forms.namedItem("myForm");
+function bill(){
   
-// var num = document.getElementById("numb").value;  
-//  var pep = parseInt(document.getElementById("pepperoni").value);
-//  var pep1 = parseInt(document.getElementById("pepperoni1").value);
-//   var chick= parseInt(document.getElementById("chicken").value);
-//  var chick1 = parseInt(document.getElementById("chicken1").value);
-//  var mix = parseInt(document.getElementById("mix").value);
-//  var mix1 =parseInt( document.getElementById("mix1").value);
+var num = document.getElementById("numb").value;  
+ var pep = parseInt(document.getElementById("pepperoni").value);
+ var pep1 = parseInt(document.getElementById("pepperoni1").value);
+  var chick= parseInt(document.getElementById("chicken").value);
+ var chick1 = parseInt(document.getElementById("chicken1").value);
+ var mix = parseInt(document.getElementById("mix").value);
+ var mix1 =parseInt( document.getElementById("mix1").value);
  
 var txt = "";
 var i;
