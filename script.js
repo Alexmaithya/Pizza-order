@@ -56,7 +56,7 @@ var loca;
 function loc() {   loca = prompt("Please Enter Location For Delivery");
 }
 function fin(){
-var   play = "Thanks for odering your pizza from us. If you chose to use our delivery service. " +  "Your pizza will be deliverd at " + loca + ".Thank You";
+var   play = "Thanks for odering your pizza from us. If you chose to use our delivery service." +  "Your pizza will be deliverd at" + loca + ".Thank You";
 alert(play);
 }
 function alertFunction(){
@@ -73,5 +73,5 @@ function alertFunction(){
 
   alert("Thank you " + test + " for contacting us  We have received your message ");
   }
-}
+};
 
