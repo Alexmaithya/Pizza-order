@@ -10,7 +10,8 @@ body h1{
     background-image: url(https://media.giphy.com/media/4Cgr85YLwtikE/giphy.gif);
     background-size: 50%;
 }
-h{
+body #h {
     color: black;
     font-size: x-large;
+
 }
