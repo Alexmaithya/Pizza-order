@@ -1,14 +1,14 @@
 # Title 
-DELANI STUDIO
+PIZZA ORDER
 ### author
 - Alex maithya
 #### DESCRIPTION
-- This is a website about a virtual studio known as DELANI STUDIO that deals in designing.
+- This is a websit that lets users order pizza online without neccesarily going tothe pizza joint.
 ### Setup/installation
 - git clone project
 - on your terminal run code . or atom . respectively to run the project in visual studio
 #### Live link
-https://alexmaithya.github.io/Delani-studio/
+https://alexmaithya.github.io/pizza-order/
 ###### technology used
 -jQuery
 -Bootstrap
@@ -16,4 +16,4 @@ https://alexmaithya.github.io/Delani-studio/
 - html
 - css
 ###### license
-/home/alex/Documents/ip/licence
+/home/alex/Desktop/pizza-order/licence
