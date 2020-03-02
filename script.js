@@ -29,16 +29,16 @@
 // };
 
 
-var pizza = document.forms.namedItem("myForm");
-function bill(){
+// var pizza = document.forms.namedItem("myForm");
+// function bill(){
   
-var num = document.getElementById("numb").value;  
- var pep = parseInt(document.getElementById("pepperoni").value);
- var pep1 = parseInt(document.getElementById("pepperoni1").value);
-  var chick= parseInt(document.getElementById("chicken").value);
- var chick1 = parseInt(document.getElementById("chicken1").value);
- var mix = parseInt(document.getElementById("mix").value);
- var mix1 =parseInt( document.getElementById("mix1").value);
+// var num = document.getElementById("numb").value;  
+//  var pep = parseInt(document.getElementById("pepperoni").value);
+//  var pep1 = parseInt(document.getElementById("pepperoni1").value);
+//   var chick= parseInt(document.getElementById("chicken").value);
+//  var chick1 = parseInt(document.getElementById("chicken1").value);
+//  var mix = parseInt(document.getElementById("mix").value);
+//  var mix1 =parseInt( document.getElementById("mix1").value);
  
 var txt = "";
 var i;
@@ -56,7 +56,7 @@ var loca;
 function loc() {   loca = prompt("Please Enter Location For Delivery");
 }
 function fin(){
-var   play = "Thanks for odering your pizza from us. If you chose to use our delivery service. " +  "Your pizz will be deliverd at " + loca + ".Thank You";
+var   play = "Thanks for odering your pizza from us. If you chose to use our delivery service. " +  "Your pizza will be deliverd at " + loca + ".Thank You";
 alert(play);
 }
 function alertFunction(){
